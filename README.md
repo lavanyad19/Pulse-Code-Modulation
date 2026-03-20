@@ -1,6 +1,7 @@
 # Reg.no : 212224060133
 # Name   : Lavanya D
-# Pulse-Code-Modulation and Delta Modulation
+# Exp no: 3
+# Exp name: Simulation of Pulse Code Modulation and Delta Modulation
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
 # Tools required
